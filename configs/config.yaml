@@ -1,0 +1,8 @@
+project:
+  name: "machine-failure-drift-monitor"
+  random_seed: 42
+
+data:
+  raw_data_path: "data/raw/ai4i2020.csv"
+  processed_data_path: "data/processed/"
+  target_column: "Machine failure"
