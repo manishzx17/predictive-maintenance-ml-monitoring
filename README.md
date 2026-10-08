@@ -328,4 +328,4 @@ streamlit run streamlit_app.py
 - **Cost-Sensitive Conformal Prediction**: Incorporating asymmetric misclassification penalties directly into nonconformity score functions.
 - **Drift Attribution**: Using Shapley-value drift decomposition to isolate which specific sensor changes drove performance degradation.
 
-, A., Davidson, A., Ghodsi, A., Hong, S. A., Konwinski, A., Murching, S., Nykodym, T., Ogilvie, P., Parkhe, M., Xie, F., & Zumar, C. (2018). Accelerating the Machine Learning Lifecycle with MLflow. *IEEE Data Engineering Bulletin*, 41(4), pp. 39–45.
+
