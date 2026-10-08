@@ -328,13 +328,4 @@ streamlit run streamlit_app.py
 - **Cost-Sensitive Conformal Prediction**: Incorporating asymmetric misclassification penalties directly into nonconformity score functions.
 - **Drift Attribution**: Using Shapley-value drift decomposition to isolate which specific sensor changes drove performance degradation.
 
----
-
-## References
-
-- Matzka, S. (2020). Explainable Artificial Intelligence for Predictive Maintenance Applications. In *Third International Conference on Artificial Intelligence for Industries (AI4I)*, pp. 69–74. IEEE.
-- Ke, G., Meng, Q., Finley, T., Wang, T., Chen, W., Ma, W., Ye, Q., & Liu, T. Y. (2017). LightGBM: A Highly Efficient Gradient Boosting Decision Tree. In *Advances in Neural Information Processing Systems (NeurIPS 30)*, pp. 3146–3154.
-- Niculescu-Mizil, A., & Caruana, R. (2005). Predicting Good Probabilities with Supervised Learning. In *Proceedings of the 22nd International Conference on Machine Learning (ICML)*, pp. 625–632.
-- Romano, Y., Sesia, M., & Candès, E. J. (2020). Classification with Valid and Adaptive Prediction Sets. In *Advances in Neural Information Processing Systems (NeurIPS 33)*, pp. 3581–3591.
-- Yurdakul, B. (2018). *Statistical Properties of the Population Stability Index*. PhD Dissertation, Western Michigan University.
-- Zaharia, M., Chen, A., Davidson, A., Ghodsi, A., Hong, S. A., Konwinski, A., Murching, S., Nykodym, T., Ogilvie, P., Parkhe, M., Xie, F., & Zumar, C. (2018). Accelerating the Machine Learning Lifecycle with MLflow. *IEEE Data Engineering Bulletin*, 41(4), pp. 39–45.
+, A., Davidson, A., Ghodsi, A., Hong, S. A., Konwinski, A., Murching, S., Nykodym, T., Ogilvie, P., Parkhe, M., Xie, F., & Zumar, C. (2018). Accelerating the Machine Learning Lifecycle with MLflow. *IEEE Data Engineering Bulletin*, 41(4), pp. 39–45.
